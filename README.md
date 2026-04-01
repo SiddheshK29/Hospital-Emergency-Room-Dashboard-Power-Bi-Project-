@@ -72,7 +72,8 @@ The dataset used in this dashboard includes:
 •	Data Visualization & Dashboard Design
 
 ## 📸 Dashboard Preview
-(Add screenshot here – very important for GitHub)
+<img width="833" height="508" alt="HERD 3" src="https://github.com/user-attachments/assets/6adec98a-a845-4d56-aa0d-c16ede7f2cdd" />
+
 
 ## 📌 Business Impact
 •	Helps hospitals reduce patient waiting time
