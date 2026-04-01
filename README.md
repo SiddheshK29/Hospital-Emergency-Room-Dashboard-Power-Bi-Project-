@@ -72,6 +72,10 @@ The dataset used in this dashboard includes:
 •	Data Visualization & Dashboard Design
 
 ## 📸 Dashboard Preview
+<img width="830" height="506" alt="HERD 1" src="https://github.com/user-attachments/assets/5e9ce8dc-623f-4ce2-8226-4d3c245e6642" />
+
+<img width="826" height="506" alt="HERD 2" src="https://github.com/user-attachments/assets/97ce5070-aa8b-44fa-9030-34967597e75a" />
+
 <img width="833" height="508" alt="HERD 3" src="https://github.com/user-attachments/assets/6adec98a-a845-4d56-aa0d-c16ede7f2cdd" />
 
 
