@@ -35,7 +35,7 @@ The dashboard helps in understanding operational efficiency and identifying area
 
 ## 📂 Dataset Description
 The dataset used in this dashboard includes:
-- <a href="https://github.com/SiddheshK29/Hospital-Emergency-Room-Dashboard-Power-Bi-Project-/blob/main/Hospital%20ER_Data.csv">dataset</a>
+- <a href="https://github.com/SiddheshK29/Hospital-Emergency-Room-Dashboard-Power-Bi-Project-/blob/main/Hospital%20ER_Data.csv">Dataset</a>
 
 •	Patient ID
 
